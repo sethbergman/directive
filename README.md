@@ -9,23 +9,23 @@ html5 theme with a node / express server
 
 ## Demo:
 
-[directive.npmstack.com](//directive.npmstack.com)
+[directive.npmstack.com](http://directive.npmstack.com)
 
 ### Setup
 
-```sh
+```
 git clone https://github.com/sethbergman/directive.git && cd directive
 ```
 
 ### Install dependencies
 
-```sh
-npm install
+```
+npm i
 ```
 
 ### Start the app
 
-```sh
+```
 npm start
 ```
 
@@ -33,7 +33,7 @@ npm start
 
 #### Demo:
 
-__<directive.npmstack.com>__
+<directive.npmstack.com>
 
 
 [![GitHub forks](https://img.shields.io/github/forks/sethbergman/directive.svg?style=social&label=Fork)](https://github.com/sethbergman/directive) [![GitHub stars](https://img.shields.io/github/stars/sethbergman/directive.svg?style=social&label=Star)](https://github.com/sethbergman/directive) [![GitHub watchers](https://img.shields.io/github/watchers/sethbergman/directive.svg?style=social&label=Watch)](https://github.com/sethbergman/directive) [![GitHub followers](https://img.shields.io/github/followers/sethbergman.svg?style=social&label=Follow)](https://github.com/sethbergman/directive) [![Twitter Follow](https://img.shields.io/twitter/follow/seth_bergman.svg?style=social)](https://twitter.com/seth_bergman)
