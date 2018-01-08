@@ -1,5 +1,7 @@
 # directive
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/sethbergman/directive.svg)](https://greenkeeper.io/)
+
 html5 theme with a node / express server
 
 --------------------------------------------------------------------------------
